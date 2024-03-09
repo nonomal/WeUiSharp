@@ -116,16 +116,6 @@ public partial class MainWindow
 * [Toast](https://github.com/IUpdatable/WeUiSharp/wiki/2.-Components#Toast)
 * [Alert](https://github.com/IUpdatable/WeUiSharp/wiki/2.-Components#Alert)
 
-## Feedback
-**PS: 最近在找工作，有工作推荐的也可以联系我。**
-* 邮箱：IUpdatable@163.com
-
-* 微信公众号：
-
-<p align="center">
-    <img height="300" src="https://raw.githubusercontent.com/IUpdatable/WeUiSharp/master/Resources/公众号.jpg"/>
-</p>
-
 ## License
 
 MIT
