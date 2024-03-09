@@ -116,15 +116,6 @@ Complete code of Hello Wrorld project based on Prism framework:  [WeUiSharp.Hell
 * [Toast](https://github.com/IUpdatable/WeUiSharp/wiki/2.-Components#Toast)
 * [Alert](https://github.com/IUpdatable/WeUiSharp/wiki/2.-Components#Alert)
 
-## Feedback
-**PS: I'm looking for a job recently, you can contact me if you have a job recommendation.**
-* E-mail: IUpdatable@163.com
-
-* WeChat Official Account: 
-
-<p align="center">
-    <img height="300" src="https://raw.githubusercontent.com/IUpdatable/WeUiSharp/master/Resources/公众号.jpg"/>
-</p>
 
 ## License
 
